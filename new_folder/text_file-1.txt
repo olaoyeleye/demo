@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 this is a new program i am writtijng
 
 i hpe it works fin
 i hope this has added to my knowledgee
+=======
+just added this for training
+i think its verry okay
+>>>>>>> a0be21f075c83b4fc7e1770a88c41a1740bfe963
